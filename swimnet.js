@@ -1490,7 +1490,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
                     delete perc.structure[t][k].outputConnections
                 }
             }
-            console.log(JSON.stringify(perc))
+            //log object as string
         }
     }
 
